@@ -1,0 +1,49 @@
+abbottnorthwesternhospital-anh
+annchildren'shospital-ach
+aspiruswausauhospital-awh
+banner–universitymedicalcenter-bumc
+barnes-jewishhospital-bjh
+bayloruniversitymedicalcenter-bumc
+beaumonthospital-bh
+billingsclinic-bc
+bostonmedicalcenter-bmc
+cedarssinaimedicalcenter-csmc
+childrenshospitalofphiladelphia-chp
+clevelandclinic-cc
+floridahospitalorlando-fhl
+houstonmethodisthospital-hmh
+thejohnshopkinshospital-jhh
+mayoclinic-mc
+mercyhospital-mh
+ochsnermedicalcenter-omc
+ucsandiegomedicalcenterusdmc
+yalenewhavenhospital-ynh
+
+
+
+allfeeforservice-cs001,
+ambulatorysurgicalcenters-cs002,
+ambulanceservices-cs003,
+anesthesiologists-cs004,
+clinicallabs-cs005,
+durablemedicalequipment-cs006,
+federallyqualifiedhealthcenters-cs7,
+homehealthagency-cs8,
+hospital-cs9,
+practiceadministration-cs10,
+pharmacist-cs11,
+physician-cs12,
+ruralhealthclinics-cs13,
+skillednursingfacility-cs14
+
+
+ab-gp-10	banca		def
+cd-sp-20	broker*		cat
+e-ps-15		dir		cau
+f-hs-15		agent*		eva
+g-cri-10	volun		ana
+h-op-20				pro
+o-mp-10		c,s,i,e
+z-hr-1
+k-de-2
+
